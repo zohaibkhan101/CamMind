@@ -1,0 +1,90 @@
+2025-05-15T23:55:25.104095 - a man holding a cell up to his head
+2025-05-15T23:55:32.312376 - a man is taking a selfie self
+2025-05-15T23:55:40.914866 - a man laying on a bed with a remote control
+2025-05-15T23:55:48.624009 - a man laying on a bed with a remote control
+2025-05-15T23:55:56.198417 - a man sitting in a chair with a cell
+2025-05-15T23:56:04.793092 - a man sitting in a chair with a cell in his hand
+2025-05-15T23:56:12.462207 - a man is sitting in a bed with a pillow
+2025-05-15T23:56:19.341462 - a man sitting in a chair eating a sandwich
+2025-05-15T23:56:26.864123 - a man sitting in a chair eating a sandwich
+2025-05-15T23:56:33.261072 - a man sitting in a chair with a cell
+2025-05-15T23:56:40.126660 - a man sitting in a chair with a cell
+2025-05-15T23:56:47.238283 - a man sitting in a chair with a remote control
+2025-05-15T23:56:54.813668 - a person holding a plastic bottle with a tooth
+2025-05-15T23:57:03.317547 - a person holding a plastic bottle with a sandwich in it
+2025-05-15T23:57:11.826307 - a man holding a bottle of water in his hand
+2025-05-15T23:57:18.157840 - a man taking a picture of himself
+2025-05-15T23:57:24.381000 - a man taking a picture of himself
+2025-05-15T23:57:30.820906 - a man taking a picture of himself
+2025-05-15T23:57:37.823182 - a person taking a picture of a dog
+2025-05-15T23:57:44.885989 - a person taking a picture of a teddy bear
+2025-05-15T23:57:52.057170 - a person taking a picture of themselvesed animals
+2025-05-15T23:57:58.737273 - a man holding a cell up to his face
+2025-05-15T23:58:04.821775 - a person holding a fake id card
+2025-05-15T23:58:10.950230 - a person holding up a fake id card
+2025-05-15T23:58:16.964456 - a man holding up a fake id card
+2025-05-15T23:58:22.561785 - a person holding a fake id card
+2025-05-15T23:58:29.624591 - a man is holding a cell up to his face
+2025-05-15T23:58:35.777455 - a man sitting in a chair with a cell
+2025-05-15T23:58:43.373341 - a man sitting in a chair with a cell in his hand
+2025-05-15T23:58:51.262129 - a man holding a bottle of water in his hand
+2025-05-15T23:58:58.485058 - a man holding a bottle of water in his hand
+2025-05-15T23:59:05.127064 - a man holding a bottle of water in his hand
+2025-05-15T23:59:11.588450 - a man sitting on a couch eating a sandwich
+2025-05-15T23:59:18.803566 - a man sitting in a chair with a cell in his hand
+2025-05-15T23:59:24.765068 - a man is reading a book in bed
+2025-05-15T23:59:30.152485 - a man taking a picture of himself
+2025-05-15T23:59:38.351747 - a man sitting on a bed with a cell in his hand
+2025-05-15T23:59:45.023044 - a man is laying in bed with his head down
+2025-05-15T23:59:52.011653 - a man laying in bed with a cell
+2025-05-15T23:59:58.573598 - a man sitting in a chair with a cell
+2025-05-16T00:00:04.747942 - a man sitting on a bed with a laptop
+2025-05-16T00:00:10.882255 - a man holding a cell phone in his hand
+2025-05-16T00:00:15.948458 - a person holding up a cell phone
+2025-05-16T00:00:21.568242 - a person holding a cell phone in their hand
+2025-05-16T00:00:26.862907 - a person holding a cell phone in their hand
+2025-05-16T00:00:31.597158 - a man with a beard and a cell
+2025-05-16T00:00:37.359485 - a hand holding a box of samsung galaxy s3
+2025-05-16T00:00:41.962907 - a man is eating a sandwich sandwich
+2025-05-16T00:00:47.149198 - a man sitting in a chair with a cell
+2025-05-16T00:00:52.924220 - a man holding a remote control device in his hand
+2025-05-16T00:00:58.294062 - a man holding a remote control device in his hand
+2025-05-16T00:01:03.861125 - a man sitting in a chair with a cell
+2025-05-16T00:01:10.430884 - a man laying on a bed with his head on his hands
+2025-05-16T00:01:16.479282 - a man sitting in a chair with his head on his hands
+2025-05-16T00:01:22.910401 - a man laying on a bed with his head on his hands
+2025-05-16T00:01:28.413026 - a man is taking a selfie in the mirror
+2025-05-16T00:01:33.810204 - a man is taking a selfie in the mirror
+2025-05-16T00:01:39.267917 - a man sitting in a chair with a cell
+2025-05-16T00:01:45.302644 - a man sitting in a chair with a remote control
+2025-05-16T00:01:55.270049 - a man is sitting in a chair with a cell
+2025-05-16T00:02:04.052698 - a man sitting in a chair with his head on his hands
+2025-05-16T00:02:11.722789 - a man sitting in a chair with his head on his hands
+2025-05-16T00:02:17.184406 - a man sitting in a chair with a cell
+2025-05-16T00:02:23.421233 - a man sitting in a chair with a remote control
+2025-05-16T00:02:30.631469 - a man sitting in a chair with a remote control
+2025-05-16T00:02:37.989131 - a man sitting in a chair with a cell in his hand
+2025-05-16T00:02:43.157849 - a man sitting in a chair with a cell
+2025-05-16T00:02:48.680975 - a man sitting in a chair with a cell
+2025-05-16T00:11:35.029981 - a man sitting in a chair with a cell in his hand
+2025-05-16T00:11:41.961954 - a man sitting in a chair with a cell in his hand
+2025-05-16T00:11:48.590121 - a man sitting in a chair eating a sandwich
+2025-05-16T00:11:56.055439 - a man sitting in a chair with a cell
+2025-05-16T00:12:02.385994 - a man sitting in a chair with a cell
+2025-05-16T00:12:08.450013 - a man sitting in a chair with his hand up
+2025-05-16T00:12:13.840363 - a man is sitting in a chair and waving
+2025-05-16T00:12:19.828220 - a man sitting in a chair with his hand up
+2025-05-16T00:12:25.306437 - a man sitting in a chair holding a cell
+2025-05-16T00:12:30.743652 - a man is taking a picture of himself
+2025-05-16T00:12:36.911157 - a man sitting in a chair eating a sandwich
+2025-05-16T00:12:42.537776 - a man sitting in a chair with a cell
+2025-05-16T00:12:50.061413 - a man sitting in a chair with a cell in his hand
+2025-05-16T00:12:55.809098 - a man in a white shirt is taking a bite
+2025-05-16T10:18:59.681982 - a man taking a selfie in a bathroom
+2025-05-16T10:19:07.310502 - a man in a black shirt
+2025-05-16T10:19:14.574005 - a man taking a selfie in a mirror
+2025-05-16T10:19:22.434852 - a man sitting on a couch holding a remote control
+2025-05-16T10:19:29.971483 - a man taking a selfie selfie self
+2025-05-16T10:19:37.257833 - a man taking a selfie in a mirror
+2025-05-16T10:19:44.876924 - a man taking a selfie in a mirror
+2025-05-16T10:19:51.037668 - a man in a black shirt
